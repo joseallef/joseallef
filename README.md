@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hey, I'm Jose Allef👋
 
+
+[![Gmail Badge](https://img.shields.io/badge/-joseallefbs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:joseallefbs@gmail.com)
 <!--
 **joseallef/joseallef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
