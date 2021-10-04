@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
   Emoji: Site = https://dev.to/envoy_/150-badges-for-github-pnk
 
+  Icons https://devicon.dev/
+
 
   [![Gmail Badge](https://img.shields.io/badge/-joseallefbs@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)]        (mailto:joseallefbs@gmail.com)
 
