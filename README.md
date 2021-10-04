@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 <div>
   
   ##  
+ 
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseallef&bg_color=222222&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+
   
 <!--
 
