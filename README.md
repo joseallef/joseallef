@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Jose Allef👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 
-
+##
 
 <!--
 **joseallef/joseallef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
