@@ -42,9 +42,8 @@ Here are some ideas to get you started:
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://app.rocketseat.com.br/me/allef-05902)
   [![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-%238257e6?style=for-the-badge)](https://app.rocketseat.com.br/me/allef-05902)
   
-  ##  
- 
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joseallef&bg_color=222222&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)
+  ##
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joseallef&bg_color=222222&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
 <!--
