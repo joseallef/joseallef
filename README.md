@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jose-allef/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://app.rocketseat.com.br/me/allef-05902)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allef_96)
   [![Rocketseat](https://img.shields.io/badge/%F0%9F%9A%80%20Rocketseat-%238257e6?style=for-the-badge)](https://app.rocketseat.com.br/me/allef-05902)
   
   ##
